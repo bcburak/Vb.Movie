@@ -1,0 +1,17 @@
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\bin\Debug\net6.0\VB.Movie.Service.deps.json
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\bin\Debug\net6.0\VB.Movie.Service.dll
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\bin\Debug\net6.0\VB.Movie.Service.pdb
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\bin\Debug\net6.0\VB.Movie.Domain.dll
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\bin\Debug\net6.0\VB.Movie.Persistence.dll
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\bin\Debug\net6.0\VB.Movie.Persistence.pdb
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\bin\Debug\net6.0\VB.Movie.Domain.pdb
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.csproj.AssemblyReference.cache
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.AssemblyInfoInputs.cache
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.AssemblyInfo.cs
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.csproj.CoreCompileInputs.cache
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.csproj.CopyComplete
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.dll
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\refint\VB.Movie.Service.dll
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\VB.Movie.Service.pdb
+C:\Users\Burak.Celik\source\training\VB.Movie\VB.Movie.Service\obj\Debug\net6.0\ref\VB.Movie.Service.dll
